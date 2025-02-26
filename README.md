@@ -1,4 +1,4 @@
-# 👋 Hello and welcome
+<img src="./welcome.png" alt="Hello and welcome :)" />
 
 ## About me
 
@@ -10,7 +10,7 @@
   - 🧪 Data science
   - 🏘 Ops/infra
 - 🇬🇧 UK based
-- 💼 Open to new opportunities if the right one arises - though online privacy is important to me, so you won't find me on LinkedIn 🕵️
+- 💼 I am open to new opportunities if the right one arises - though online privacy is important to me, so you won't find me on LinkedIn 🕵️
 
 ## My toolkit
 
