@@ -10,7 +10,8 @@
   - 🧪 Data science
   - 🏘 Ops/infra
 - 🇬🇧 UK based
-- 💼 I am open to new opportunities if the right one arises - though online privacy is important to me, so you won't find me on LinkedIn 🕵️
+- 📖 Currently learning: data structures and algorithms, to deepen my knowledge of CS fundamentals
+- 💼 I am open to new opportunities if the right one arises 👀
 
 ## My toolkit
 
@@ -32,6 +33,9 @@
 #### Gems
 - [ruby-lsp-rails-factory-bot](https://github.com/johansenja/ruby-lsp-rails-factory-bot): A ruby lsp extension providing hover tooltips, autocompletion and go-to-definition for attributes, traits and factories in factory_bot
 - [typed_struct](https://github.com/johansenja/typed_struct): Ruby structs but with type-checked attributes
+
+#### Non-technical
+- [awesome-ruby-lsp](https://github.com/johansenja/awesome-ruby-lsp): A curated list of awesome addons for ruby-lsp 
 
 #### Experimental
 - [quince](https://github.com/johansenja/quince): Dynamic, stateful, react-like framework for web applications, but pages are server rendered and written purely in Ruby
