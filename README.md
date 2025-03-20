@@ -16,7 +16,7 @@
 ## My toolkit
 
 - 🔠 Languages: Ruby, TypeScript, SQL, Python, CSS, JavaScript, HTML
-- 📖 Frameworks/Libraries: Rails, React, NestJS, Ant Design, Pandas, Sinatra & more
+- 📖 Frameworks/Libraries: Rails, NodeJS (NestJS & more), React, Ant Design, Pandas, Sinatra & more
 - 🗄️ Databases: PostgreSQL, ElasticSearch, Redis
 - 🌩️ Cloud/platforms: AWS, Heroku, GitHub, HuggingFace
 - 👀 Other: Docker, Kubernetes, OpenAI
