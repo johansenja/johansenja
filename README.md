@@ -2,24 +2,18 @@
 
 ## About me
 
-- 💡 I like to use my creativity and ambition to craft elegant solutions to challenging technical problems
-- 🛠 My areas of specialism are back end development, databases and system design - though I consider myself to be "full stack", and across my career I have worked in:
-  - 🎨 Front end
-  - ⚙️ Back end
-  - 🔧 Data engineering
-  - 🧪 Data science
-  - 🏘 Ops/infra
+- 🛠 My areas of specialism are back end development, databases and system design - though I consider myself to be "full stack"
 - 🇬🇧 UK based
-- 📖 Currently learning: data structures and algorithms, to deepen my knowledge of CS fundamentals
 - 💼 I am open to new opportunities if the right one arises 👀
 
 ## My toolkit
 
-- 🔠 Languages: Ruby, TypeScript, SQL, Python, CSS, JavaScript, HTML
-- 📖 Frameworks/Libraries: Rails, NodeJS (NestJS & more), React, Ant Design, Pandas, Sinatra & more
+- 🔠 Languages: TypeScript (professional), Ruby (open source/personal), Python (data)
 - 🗄️ Databases: PostgreSQL, ElasticSearch, Redis
-- 🌩️ Cloud/platforms: AWS, Heroku, GitHub, HuggingFace
+- 📖 Frameworks/Libraries: NodeJS (NestJS/NextJS), Rails, React
+- 🌩️ Cloud/platforms: AWS, GitHub, HuggingFace
 - 👀 Other: Docker, Kubernetes, OpenAI
+- 👨‍💻 Development: Neovim (ask me about my setup 🤓), Terminal, Tmux, Claude
 
 ## A few of the open source projects I've contributed to
 - [Ruby/rbs](https://github.com/ruby/rbs/pull/501): Ruby type signature language
