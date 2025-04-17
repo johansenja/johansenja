@@ -13,7 +13,7 @@
 - 📖 Frameworks/Libraries: NodeJS (NestJS/NextJS), Rails, React
 - 🌩️ Cloud/platforms: AWS, GitHub, HuggingFace
 - 👀 Other: Docker, Kubernetes, OpenAI
-- 👨‍💻 Development: Neovim (ask me about my setup 🤓), Terminal, Tmux, Claude
+- 👨‍💻 Development: Neovim (ask me about my setup 🤓), Terminal, Claude
 
 ## A few of the open source projects I've contributed to
 - [Ruby/rbs](https://github.com/ruby/rbs/pull/501): Ruby type signature language
